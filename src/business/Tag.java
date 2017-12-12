@@ -7,6 +7,9 @@ public class Tag {
     private static Long count = (long) 0;
     
     
+    
+    
+    
 
     public Tag() {
         id = ++count;
