@@ -8,6 +8,14 @@ public class Audio {
         super();
         this.auteur = auteur;
     }
+
+    public String getAuteur() {
+        return auteur;
+    }
+
+    public void setAuteur(String auteur) {
+        this.auteur = auteur;
+    }
     
     
 
